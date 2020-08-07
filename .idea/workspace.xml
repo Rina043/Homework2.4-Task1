@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecf81e23-e826-4dfb-a4d1-82ace543db88" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/stats/StatsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/stats/StatsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/stats/StatsServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/stats/StatsServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/ru/netology/stats/StatsService.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Toshiba\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\202.6397.94\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fgcY2GUV5czQzlGZY8N5pdF0fF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.netology.stats" />
+      <recent name="ru.netology.statistic" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.netology.stats" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+      <command value="mvn clean test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.StatsServiceTest.shouldCalculateMoreThanAverage">
+    <configuration name="StatsServiceTest.findMax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="findMax" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.shouldCalculateLessAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="shouldCalculateLessAverage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.shouldCalculateMax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="shouldCalculateMax" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.shouldCalculateMin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="shouldCalculateMin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.shouldCalculateMoreThanAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="shouldCalculateMoreThanAverage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StatsServiceTest.shouldCalculateMoreThanAverage" />
+        <item itemvalue="JUnit.StatsServiceTest.shouldCalculateLessAverage" />
+        <item itemvalue="JUnit.StatsServiceTest.shouldCalculateMin" />
+        <item itemvalue="JUnit.StatsServiceTest.shouldCalculateMax" />
+        <item itemvalue="JUnit.StatsServiceTest.findMax" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecf81e23-e826-4dfb-a4d1-82ace543db88" name="Default Changelist" comment="" />
+      <created>1596643246930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596643246930</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596710054589">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.639@0.0.1280.639" timestamp="1596710054589" />
+    <state x="93" y="93" width="1094" height="454" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1596808481290">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state x="93" y="93" width="1094" height="454" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.639@0.0.1280.639" timestamp="1596808481290" />
+    <state x="371" y="67" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596715645415">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state x="371" y="67" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.639@0.0.1280.639" timestamp="1596715645415" />
+    <state width="1237" height="167" key="GridCell.Tab.0.bottom" timestamp="1596817861683">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state width="1237" height="167" key="GridCell.Tab.0.bottom/0.0.1280.639@0.0.1280.639" timestamp="1596817861683" />
+    <state width="1237" height="167" key="GridCell.Tab.0.center" timestamp="1596817861683">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state width="1237" height="167" key="GridCell.Tab.0.center/0.0.1280.639@0.0.1280.639" timestamp="1596817861683" />
+    <state width="1237" height="167" key="GridCell.Tab.0.left" timestamp="1596817861683">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state width="1237" height="167" key="GridCell.Tab.0.left/0.0.1280.639@0.0.1280.639" timestamp="1596817861683" />
+    <state width="1237" height="167" key="GridCell.Tab.0.right" timestamp="1596817861683">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state width="1237" height="167" key="GridCell.Tab.0.right/0.0.1280.639@0.0.1280.639" timestamp="1596817861683" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1596714947906">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.639@0.0.1280.639" timestamp="1596714947906" />
+    <state x="412" y="149" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596645345743">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state x="412" y="149" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.639@0.0.1280.639" timestamp="1596645345743" />
+    <state x="297" y="141" width="672" height="677" key="run.anything.popup" timestamp="1596806971198">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state x="297" y="141" width="672" height="677" key="run.anything.popup/0.0.1280.639@0.0.1280.639" timestamp="1596806971198" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ru/netology/stats/StatsServiceTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ru/netology/stats/StatsServiceTest.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
